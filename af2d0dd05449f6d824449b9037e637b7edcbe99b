@@ -1,0 +1,1 @@
+This fixed the bug in TreeNode.cpp which erroneously converted sqrt_ns to integer; however, fixing this requires the MoreSims config to have a smaller virtual loss to encourage exploitation
